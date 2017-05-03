@@ -1,0 +1,36 @@
+
+.button1 {
+    background-color:#aa2129;
+    color: white;
+    padding: 8px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    
+}
+
+.button1:hover {
+    background-color: rgb(147, 14, 0);
+    color: white;
+    }
+
+.button2 {
+    background-color:white;
+    color: #aa2129;
+    border: 2px solid #aa2129;
+    padding: 6px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    
+
+} 
+
+.button2:hover {
+    background-color: #aa2129;
+    color: white;
+}
