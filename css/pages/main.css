@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,700,700i,800');
+
+
+
+
+.coverfoto {
+    background-image: url('../../assets/images/fire.jpg');
+    background-size: cover;
+    height: 100vh; 
+    width: 100%;
+    margin-bottom: 30px;
+ 
+    
+  
+}
+
+#slogan {
+    color: white;
+    
+    font-size: 35px;
+    margin-top: 250px;
+    
+}
+
+#flame {
+    color: #aa2129;
+}
+
+img {
+    width: 100%;
+}
+
+.row1 {
+    margin-top: 40px
+}
+
+.row2 {
+    margin-top: 70px;
+}
+
+p {
+    line-height: 25px;
+}
+
+
+

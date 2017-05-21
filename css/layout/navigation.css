@@ -1,0 +1,31 @@
+
+a:link, a:visited {
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+}
+
+a:hover {
+    color: #aa2129;
+}
+
+li {
+    display: inline-block; 
+    margin-left: 50px;
+}
+
+.right {
+    float: right;
+    margin-right: 50px;
+    margin-top: 15px;
+}
+
+.left {
+    width: 100px;
+    display: inline-block;  
+}
+
+#logo {
+    width: 250px;
+    height: auto;
+}

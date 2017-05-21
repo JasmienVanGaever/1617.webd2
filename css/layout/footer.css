@@ -1,0 +1,30 @@
+/*footer {
+  	background-color: #aa2129;
+  	color: white;
+    left: 0;
+    bottom: 0;
+    height: 200px;
+    width: 100%;
+	  padding: 20px 40px 20px;
+	  margin-top: 40px;
+    
+
+}*/
+
+
+
+footer h4{
+	font-size: 13px;
+}
+footer p {
+	font-size: 11px;
+}
+
+footer {
+	color: white;
+	font-size: 10px;
+	margin-top: 200px;
+	padding: 0px;
+	color: white;
+	background-color: #aa2129;
+	}

@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,700,700i,800');
+
+body {
+    font-family: 'Open sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-style: bold;
+    font-size: 25px;
+
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-style: bold;
+    font-size: 20px;
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+     font-size: 18px;
+}
+
+h4 {
+    font-family: 'Open Sans', sans-serif;
+    font-style: bold;
+    font-size: 16px;
+
+}
+
+h5 {
+    font-family: 'Open Sans', sans-serif;
+     font-size: 16px;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+     font-size: 16px;
+}
